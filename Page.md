@@ -1,9 +1,36 @@
-💻 **About me**
- - Hi i'm avernys
- - i'm currently learning lua & java 
- - i love translating from English to Estonian.
+<h1 align="left">Hello, I'm Avernys</h1>
 
+![Profile views](https://gpvc.arturio.dev/Avernys)
+_________________________________________________________________________________________________________________________________________________
+<h3 align="left">I love learning different things! 🚀</h3>
 
-All my translated projects
-
-100% bttv-android https://github.com/bttv-android/bttv
+<div align="left">
+    <h3About me</h3>
+        <p>• I’m currently learning: <b>Lua, javascript, html, css to start my programming career.</b></p>
+        <p>• Hobbies: <b>Games | Music | Translating</b></p>
+        <p>• Ask me about: <b>Anything, I love knowledge and learning new things</b></p>
+        <p>• How to reach me? <b> Scroll down</b></p>
+</div><br>
+_________________________________________________________________________________________________________________________________________________
+<div align="center">
+    <img height="500em" src="https://github-readme-stats.vercel.app/api?username=avernys&theme=dark&show_icons=true" alt="avernys" />
+</div>
+_________________________________________________________________________________________________________________________________________________
+<div>
+  <h3>Languages and tools I'm learning</h3><br>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=LUA&color=%231252B6&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="LUA"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" 
+</div>
+_________________________________________________________________________________________________________________________________________________
+<div>
+  <h3>Social Media</h3><br>
+    <a href="https://steamcommunity.com/profiles/76561198296117827/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=black&style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+    <a href="https://twitter.com/AvernysT" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+     <a href="https://discord.gg/9a52DDHuJw" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=darkgrey&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</div>
+_________________________________________________________________________________________________________________________________________________         
+<div>
+  <h3>Thanks for visiting my profile!</h3><br>
+</div> 
