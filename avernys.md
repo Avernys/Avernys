@@ -1,6 +1,4 @@
 <h1 align="left">Hello, I'm Avernys</h1>
-
-![Profile views](https://gpvc.arturio.dev/Avernys)
 _________________________________________________________________________________________________________________________________________________
 <h3 align="left">I love learning different things! 🚀</h3>
 
@@ -12,10 +10,12 @@ ________________________________________________________________________________
         <p>• How to reach me? <b> Scroll down</b></p>
 </div><br>
 _________________________________________________________________________________________________________________________________________________
+
 <div align="center">
     <img height="500em" src="https://github-readme-stats.vercel.app/api?username=avernys&theme=dark&show_icons=true" alt="avernys" />
 </div>
 _________________________________________________________________________________________________________________________________________________
+
 <div>
   <h3>Languages and tools I'm learning</h3><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML"></a>
