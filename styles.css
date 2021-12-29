@@ -4,13 +4,19 @@ body {
    }
 
    .p1 {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Franklin Gothic Medium";
   }
   
   .p2 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Leelawadee UI";
+  }
+
+ .p3 {
+    font-family: "Franklin Gothic Medium";
+    font-size:8px;
+  }
+  .p4 {
+    font-family: "Franklin Gothic Medium";
+    font-size:10px;
   }
   
-  .p3 {
-    font-family: "Lucida Console", "Courier New", monospace;
-  }
